@@ -1,4 +1,5 @@
-# Machine-Learning :computer::mag:
+<h1 align="center">Machine-Learning :computer::mag:</h1>
+
 O aprendizado de máquina é um subcampo da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
 ## [Titanic :ship:](./titanic/titanic.ipynb)
 
