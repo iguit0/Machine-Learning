@@ -1,11 +1,11 @@
 <h1 align="center">Machine-Learning :computer::mag:</h1>
 
 O aprendizado de máquina é um subcampo da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
-## [Titanic :ship:](./titanic/titanic.ipynb)
+<h2 align="center">Titanic :ship:</h2>
 
-<h3 align="center">Score: 0.77990</h3>
+<h4 align="center">:checkered_flag: Score: 0.77990</h4>
 
-Uma das mais famosas (e clássicas) competições de *Machine Learning* é o **Naufrágio do Titanic**. Trata-se de uma tarefa voltada para iniciantes onde é preciso prever quais passageiros sobreviveriam ao terrível desastre que atingiu o mundo no século passado. E é ela mesmo que iremos fazer.
+Uma das mais famosas (e clássicas) competições de *Machine Learning* é o caso [Titanic](https://pt.wikipedia.org/wiki/Naufr%C3%A1gio_do_RMS_Titanic). Trata-se de uma tarefa voltada para iniciantes onde é preciso prever quais passageiros sobreviveriam ao terrível desastre que atingiu o mundo no século passado. E é ela mesmo que iremos fazer.
 
 Antes de mais nada, vamos entender os dados com os quais vamos trabalhar. O *dataset* da competição contém as seguintes colunas:
 
