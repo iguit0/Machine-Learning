@@ -1,4 +1,4 @@
-<h1 align="center">Machine-Learning :computer::mag:</h1>
+<h1 align="center">Data Science :computer::mag:</h1>
 
 O aprendizado de máquina é um subcampo da ciência da computação que evoluiu do estudo de reconhecimento de padrões e da teoria do aprendizado computacional em inteligência artificial.
 <h2 align="center">Titanic :ship:</h2>
