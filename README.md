@@ -7,7 +7,7 @@ O aprendizado de máquina é um subcampo da ciência da computação que evoluiu
 
 Uma das mais famosas (e clássicas) competições de *Machine Learning* é o caso [Titanic](https://pt.wikipedia.org/wiki/Naufr%C3%A1gio_do_RMS_Titanic). Trata-se de uma tarefa voltada para iniciantes onde é preciso prever quais passageiros sobreviveriam ao terrível desastre que atingiu o mundo no século passado. E é ela mesmo que iremos fazer.
 
-Antes de mais nada, vamos entender os dados com os quais vamos trabalhar. O *dataset* da competição contém as seguintes colunas:
+O *dataset* da competição contém as seguintes colunas:
 
 Atributo | Função
 --------- | ------
